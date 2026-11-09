@@ -1,5 +1,5 @@
-# Practica 6 - Lambda: crear e invocar una funcion en floci
-# Ejecutar desde la carpeta "PRACTICA 6"
+# Lambda: crear e invocar una funcion en floci
+
 
 $env:AWS_DEFAULT_REGION = "us-east-1"
 $env:AWS_ENDPOINT_URL = "http://localhost:4566"
